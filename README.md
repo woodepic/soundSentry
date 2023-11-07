@@ -1,1 +1,3 @@
 # soundSentry
+
+Db reading sentry.
