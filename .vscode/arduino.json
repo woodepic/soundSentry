@@ -1,0 +1,6 @@
+{
+    "sketch": "soundSentry_firmware/soundSentry_firmware.ino",
+    "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+    "board": "arduino:esp32:nano_nora",
+    "port": "/dev/tty.usbmodem3485187A75D82"
+}
